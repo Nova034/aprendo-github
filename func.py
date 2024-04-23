@@ -10,3 +10,4 @@ def FuncionZ(z, z1, z2, z3):
 
 
 
+
